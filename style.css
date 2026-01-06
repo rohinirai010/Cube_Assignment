@@ -879,7 +879,7 @@ h1 {
     left: 20px;
     right: 20px;
     max-width: calc(100% - 40px);
-    padding: 25px;
+    padding: 20px;
   }
 
   h1 {
@@ -954,8 +954,8 @@ h1 {
   }
 
   .content-box {
-    top: 8%;
-    padding: 20px;
+    top: 10%;
+    padding: 10px;
   }
 
   .award-badge {
@@ -2441,9 +2441,10 @@ nav a:hover::before {
   .content-box {
     top: 15%;
     left: 30px;
-    right: 30px;
-    max-width: 400px;
+    
+   
     transform: none;
+    
   }
 
   h1 {
@@ -2505,7 +2506,7 @@ nav a:hover::before {
   }
 
   .content-box {
-    top: 12%;
+    top: 26%;
     left: 20px;
     right: 20px;
     max-width: calc(100% - 40px);
@@ -2559,7 +2560,7 @@ nav a:hover::before {
   }
 
   .content-box {
-    top: 10%;
+    top: 26%;
     left: 20px;
     right: 20px;
     max-width: calc(100% - 40px);
@@ -2634,10 +2635,10 @@ nav a:hover::before {
   }
 
   .content-box {
-    top: 8%;
+    top: 24%;
     left: 15px;
     right: 15px;
-    padding: 20px;
+    padding: 15px;
   }
 
   .award-badge {
@@ -2711,8 +2712,8 @@ nav a:hover::before {
 /* Extra Small Mobile (320px-360px) */
 @media (max-width: 359px) {
   .content-box {
-    padding: 15px;
-    top: 15%;
+    padding: 6px;
+    top: 22%;
   left: 8%;
   }
 
@@ -2730,7 +2731,7 @@ nav a:hover::before {
   }
 
   .stat-number-hero{
-    font-size: 60px
+    font-size: 30px
   }
 
   .stat-number {
