@@ -2454,6 +2454,10 @@ nav a:hover::before {
     gap: 30px;
   }
 
+  .stat-number-hero{
+    font-size: 45px
+  }
+
   .stat-number {
     font-size: 48px;
   }
@@ -2570,6 +2574,10 @@ nav a:hover::before {
     flex-wrap: wrap;
   }
 
+  .stat-number-hero{
+    font-size: 44px
+  }
+
   .stat {
     flex: 1;
     min-width: 120px;
@@ -2641,6 +2649,10 @@ nav a:hover::before {
     font-size: 28px;
   }
 
+  .stat-number-hero{
+    font-size: 40px
+  }
+
   .stats {
     gap: 10px;
   }
@@ -2648,6 +2660,8 @@ nav a:hover::before {
   .stat-number {
     font-size: 32px;
   }
+
+
 
   .stat-label {
     font-size: 12px;
