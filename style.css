@@ -1183,7 +1183,7 @@ h1 {
 
 .comparison-container {
   max-width: 1400px;
-  margin: 0 auto;
+  margin: 0 10rem;
   text-align: center;
 }
 
@@ -1214,7 +1214,7 @@ h1 {
 .comparison-table {
   width: 100%;
   border-collapse: collapse;
-
+  
   overflow: hidden;
   min-width: 800px;
 }
@@ -2935,7 +2935,7 @@ nav a:hover::before {
   
   .comparison-container {
     max-width: 1400px;
-    margin: 0 auto;
+    margin: 0 8rem;
   }
   
   .comparison-table {
@@ -2960,7 +2960,7 @@ nav a:hover::before {
   }
   
   .comparison-container {
-    margin: 0 auto;
+    margin: 0 2rem;
   }
   
   .comparison-container h2 {
@@ -3003,6 +3003,10 @@ nav a:hover::before {
 @media (min-width: 768px) and (max-width: 1023px) {
   .comparison-section {
     padding: 50px 30px;
+  }
+
+  .comparison-container{
+    margin: 0 2rem;
   }
   
   .comparison-container h2 {
@@ -3074,6 +3078,10 @@ nav a:hover::before {
   .comparison-section {
     padding: 40px 25px;
   }
+
+  .comparison-container{
+    margin: 0 1rem;
+  }
   
   .comparison-container h2 {
     font-size: 26px;
@@ -3143,6 +3151,10 @@ nav a:hover::before {
 @media (min-width: 480px) and (max-width: 599px) {
   .comparison-section {
     padding: 35px 20px;
+  }
+
+  .comparison-container{
+    margin: 0 1rem;
   }
   
   .comparison-container h2 {
@@ -3214,6 +3226,10 @@ nav a:hover::before {
   .comparison-section {
     padding: 30px 15px;
   }
+
+  .comparison-container{
+    margin: 0 0.5rem;
+  }
   
   .comparison-container h2 {
     font-size: 22px;
@@ -3284,6 +3300,10 @@ nav a:hover::before {
   .comparison-section {
     padding: 25px 10px;
   }
+
+  .comparison-container{
+    margin: 0 0;
+  }
   
   .comparison-container h2 {
     font-size: 20px;
@@ -3353,6 +3373,10 @@ nav a:hover::before {
 @media (max-width: 319px) {
   .comparison-section {
     padding: 20px 8px;
+  }
+
+  .comparison-container{
+    margin: 0 0;
   }
   
   .comparison-container h2 {
